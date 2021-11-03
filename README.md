@@ -3,16 +3,11 @@ Knowlite Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/knowlite-project/knowlite.svg?branch=master)](https://travis-ci.org/knowlite-project/knowlite)
 
-https://knowlite.org
+https://www.knowcrypto.show
 
 What is Knowlite?
 ----------------
-
-Knowlite is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Knowlite uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Knowlite Core is the name of open source
-software which enables the use of this currency.
+Knowlite, an experimental digital currency forked from legacy Litecoin, was created to learn and share, share and learn. Knowlite uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money collectively by the network. Knowlite Core is the name of open source software that enables the use and creation of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the Knowlite Core software, see [https://knowlite.org](https://knowlite.org).
