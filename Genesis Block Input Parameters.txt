@@ -1,0 +1,34 @@
+Genesis Block Input Parameters
+			
+Timestamp Message   : November 2nd, 2021 Learning and sharing, sharing and learning
+Timestamp           : 1635899864 
+Block Rewards       : 100
+PUB Secretkey       : 091084710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
+    
+    
+    
+------------------------------Main Net--------------------------------------------------------
+  
+Time Stamp	    : 1635899864
+Bits			: 0x1e0ffff0
+Nonce			: 2000356917
+Merkle  Hash	: 0x607e3b2521bd2e4cba77619d0a4bc7abf0deff24754f35ffa00fc219393893d5
+Genesis Hash	: 0x754092b31b12e36fe029cd74519c626ad91cfab49001f2c5d778a6f6cfc1ae55 
+  
+     
+------------------------------Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1635899864
+Bits			: 0x1e0ffff0
+Nonce			: 951591
+Merkle  Hash	: 0x607e3b2521bd2e4cba77619d0a4bc7abf0deff24754f35ffa00fc219393893d5
+Genesis Hash	: 0x9a89866f35941a58b4cbe6d6ba6bf5d632ace6f627b4964264139e3851a358fb 
+     
+     
+------------------------------Regression Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1635899864
+Bits			: 0x207fffff
+Nonce			: 0
+Merkle  Hash	: 0x607e3b2521bd2e4cba77619d0a4bc7abf0deff24754f35ffa00fc219393893d5
+Genesis Hash	: 0xec9d1de91e7d150a53c827225e4e845f354f0cc92515c161d47b2ef29dab6ebd 
