@@ -10,7 +10,7 @@ What is Knowlite?
 Knowlite, an experimental digital currency forked from legacy Litecoin, was created to learn and share, share and learn. Knowlite uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money collectively by the network. Knowlite Core is the name of open source software that enables the use and creation of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Knowlite Core software, see [https://knowlite.org](https://knowlite.org).
+the Knowlite Core software, see [https://www.knowcrypto.show](https://knowlite.org).
 
 License
 -------
