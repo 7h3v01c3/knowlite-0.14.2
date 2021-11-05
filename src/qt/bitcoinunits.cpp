@@ -17,9 +17,9 @@ BitcoinUnits::BitcoinUnits(QObject *parent):
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(KNWL);
-    unitlist.append(mKNWL);
-    unitlist.append(uKNWL);
+    unitlist.append(BTC);
+    unitlist.append(mBTC);
+    unitlist.append(uBTC);
     return unitlist;
 }
 
@@ -40,9 +40,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("LTC");
-    case mBTC: return QString("mLTC");
-    case uBTC: return QString::fromUtf8("μLTC");
+    case BTC: return QString("KNWL");
+    case mBTC: return QString("mKNWL");
+    case uBTC: return QString::fromUtf8("μKNWL");
     default: return QString("???");
     }
 }
